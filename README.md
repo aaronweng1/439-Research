@@ -1,7 +1,8 @@
-# 439-Research
+# An Analysis of Machine Learning Techniques in the Field of Credit Fraud Detection in 2023
+CSCE 439— Data Analytics for Cybersecurity
 Aaron Weng, Michael Morrison
 
- Abstract—In an era of rapidly evolving theft, the need for
+ Abstract— In an era of rapidly evolving theft, the need for
  timely models has never been so apparent as it is now. If we
  are to prevent such unfaithful transactions, we must ensure
  the strategies and datasets we use are up to date. In this
