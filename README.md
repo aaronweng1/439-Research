@@ -1,4 +1,5 @@
 # 439-Research
+Aaron Weng, Michael Morrison
 
  Abstract—In an era of rapidly evolving theft, the need for
  timely models has never been so apparent as it is now. If we
